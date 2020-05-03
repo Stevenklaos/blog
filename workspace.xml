@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7470ca0-2e56-448e-8462-85e53143e862" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1bNCZy74yVVw3TwgVd2tCjBu3bU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/Php/php.exe" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7470ca0-2e56-448e-8462-85e53143e862" name="Default Changelist" comment="" />
+      <created>1588463223516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588463223516</updated>
+      <workItem from="1588463224604" duration="5563000" />
+      <workItem from="1588468836110" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="537" y="198" key="#CLI_Interpreters" timestamp="1588464017706">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="537" y="198" key="#CLI_Interpreters/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1588464017706" />
+    <state x="667" y="163" key="#PHP" timestamp="1588464028443">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="163" key="#PHP/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1588464028443" />
+    <state x="309" y="247" key="FileChooserDialogImpl" timestamp="1588464002181">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="309" y="247" key="FileChooserDialogImpl/0.0.1920.1040/-1920.9.1920.1040@0.0.1920.1040" timestamp="1588464002181" />
+  </component>
+</project>
